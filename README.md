@@ -1,4 +1,4 @@
-# KeyAuth-JS-Example
+# KeyAuth-JS-Example-CommonJS
 
 ## **Example Details**
 ```
@@ -16,10 +16,11 @@ Encrypted Version of KeyAuth JS Example [KeyAuth API 1.0], Is coming soon as Dev
 ## **How to Install?**
 ```
 1: Install node.js
-2: Download this and put it on desktop
-3: Run CMD in that folder and put npm install
-4: Put your KeyAuth Details to 11-14 Lines - https://keyauth.win
-5: Run the Example - node index.js
+2: Setup a node project
+3: Download this and put it in your project
+4: Run CMD in that folder and put npm install
+5: Put your KeyAuth Details to 11-14 Lines - https://keyauth.win
+6: Run the Example - node index.js
 ```
 
 ## **NPM Module Versions**
